@@ -1,0 +1,15 @@
+D:\Study\Code\testMedia\testMedia\bin\Debug\testMedia.exe.config
+D:\Study\Code\testMedia\testMedia\bin\Debug\testMedia.exe
+D:\Study\Code\testMedia\testMedia\bin\Debug\testMedia.pdb
+D:\Study\Code\testMedia\testMedia\bin\Debug\Interop.WMPLib.dll
+D:\Study\Code\testMedia\testMedia\bin\Debug\AxInterop.WMPLib.dll
+D:\Study\Code\testMedia\testMedia\obj\Debug\testMedia.csprojAssemblyReference.cache
+D:\Study\Code\testMedia\testMedia\obj\Debug\Interop.WMPLib.dll
+D:\Study\Code\testMedia\testMedia\obj\Debug\AxInterop.WMPLib.dll
+D:\Study\Code\testMedia\testMedia\obj\Debug\testMedia.csproj.ResolveComReference.cache
+D:\Study\Code\testMedia\testMedia\obj\Debug\testMedia.Form1.resources
+D:\Study\Code\testMedia\testMedia\obj\Debug\testMedia.Properties.Resources.resources
+D:\Study\Code\testMedia\testMedia\obj\Debug\testMedia.csproj.GenerateResource.cache
+D:\Study\Code\testMedia\testMedia\obj\Debug\testMedia.csproj.CoreCompileInputs.cache
+D:\Study\Code\testMedia\testMedia\obj\Debug\testMedia.exe
+D:\Study\Code\testMedia\testMedia\obj\Debug\testMedia.pdb
